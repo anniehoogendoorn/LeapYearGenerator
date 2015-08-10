@@ -1,0 +1,6 @@
+LeapYearGenerator Spec Sheet
+
+1. A year is not a leap year if it is not divisible by 4 - Input: 1993 - Output: false
+2. A year is a leap year if it is divisible by 4 - Input: 2004 - Output: true
+3. A year is not a leap year if it is divisible by 100 - Input: 1900 - Output: false
+4. A year is a leap year if it is divisible by 400 - Input: 2000 - Output: true
